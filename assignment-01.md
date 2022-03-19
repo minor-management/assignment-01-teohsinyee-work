@@ -5,6 +5,11 @@ E.g. Question <br>
 
 1. What is the difference between private limited and public limited company? State one example for each type.
 
+|    Private    |     Public    |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
 
 3. List down 3 Non-Shariah Compliant Business Activities. 
